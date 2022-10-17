@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Factions:jar">
+    <output-path>$PROJECT_DIR$/../../usb/Servers/Servers/Minecraft/1.7.3b bukkit/plugins</output-path>
+    <root id="archive" name="Factions.jar">
+      <element id="module-output" name="Factions" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/WorldGuard.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/gson.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/Essentials.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/WorldEdit.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/EssentialsChat.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/Permissions.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/bukkit-0.0.1-SNAPSHOT.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/iConomy.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/SpoutAPI.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
